@@ -1,12 +1,9 @@
 fileFormatVersion: 2
-guid: 0738435672c7b9b47bd84eb9aee16cc1
-timeCreated: 1522246964
+guid: cee523b3596c595408f358be31194372
+timeCreated: 1522849042
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: GameBoard_0
-    21300002: GameBoard_1
-    21300004: GameBoard_2
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -69,61 +66,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: GameBoard_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2048
-        height: 2048
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: GameBoard_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1306
-        width: 757
-        height: 742
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: GameBoard_2
-      rect:
-        serializedVersion: 2
-        x: 1308
-        y: 1297
-        width: 740
-        height: 751
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
     physicsShape: []
   spritePackingTag: 

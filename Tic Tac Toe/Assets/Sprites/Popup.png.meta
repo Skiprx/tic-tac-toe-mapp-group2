@@ -1,12 +1,11 @@
 fileFormatVersion: 2
-guid: 0738435672c7b9b47bd84eb9aee16cc1
-timeCreated: 1522246964
+guid: da0688f0bb917c140b592eb871fbeb28
+timeCreated: 1522848230
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: GameBoard_0
-    21300002: GameBoard_1
-    21300004: GameBoard_2
+    21300000: Popup_0
+    21300002: Popup_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -43,13 +42,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1000
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -63,7 +62,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -73,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -83,13 +82,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GameBoard_0
+      name: Popup_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2048
-        height: 2048
+        width: 1921
+        height: 669
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -97,27 +96,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: GameBoard_1
+      name: Popup_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 1306
-        width: 757
-        height: 742
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: GameBoard_2
-      rect:
-        serializedVersion: 2
-        x: 1308
-        y: 1297
-        width: 740
-        height: 751
+        y: 0
+        width: 787
+        height: 669
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
